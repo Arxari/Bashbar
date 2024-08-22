@@ -1,5 +1,5 @@
 
-### ![logo](https://github.com/user-attachments/assets/e1c4c54b-fb8f-4dca-ad0d-21e65107bb4c) Bashbar
+### <img src="https://github.com/user-attachments/assets/e1c4c54b-fb8f-4dca-ad0d-21e65107bb4c" height="200"> Bashbar
 The most easily hackable status bar for Linux (probably)
 
 A simple and straight to the point status bar for tiling window managers (notably Hyprland)
