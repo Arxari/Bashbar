@@ -5,6 +5,7 @@
 A simple and straight to the point status bar for tiling window managers (notably Hyprland)
 
 The point of Bashbar is to have a unique and easy to use status bar that anyone can configure with ease due to it's use of the Shell programming language
+###### Currently working on remaking Bashbar with support for working with other CLI scripts
 
 #### How to install
 - git clone the repo
